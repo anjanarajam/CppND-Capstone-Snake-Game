@@ -1,0 +1,5 @@
+The result of the game is
+Score_Snake1: 2
+Score_Snake2: 0
+Size_Snake1: 3
+Size_Snake2: 1
